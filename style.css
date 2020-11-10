@@ -1,5 +1,25 @@
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+div {
+  
+  width: 700px;
+  margin: auto;
+  font-family: Helvetica Neue;
+  background: white;
+  padding: 30px;
+}	
+
+#main-header {
+  color:red;	  
+  font-size: 22px;
+}	
+
+.perspective-questions {
+  
+  font-style: italic;
+}	
