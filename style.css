@@ -6,26 +6,35 @@ body {
   text-align: center ;
 }
 
-div {
-  
-  width: 700px;
-  margin: auto;
-  font-family: Helvetica Neue;
-  background: white;
-  padding: 30px;
+h1 {
   text-align: center;
 }	
 
-#main-header {
-  color:red;	  
-  font-size: 22px;
-  text-align: center;
+img {
+  display: block;	  
+  margin-left: auto;
+  margin-right:auto;
 }	
 
-.perspective-questions {
-  
-  font-style: italic;
+nav {
   text-align: center;
+
+}	
+
+nav a { 
+  background: red;
   padding-left: 10px;
   padding-right: 10px;
-}	
+} 
+
+figcaption { 
+  text-align: center;
+  font-size: 10px;
+} 
+  
+  
+  
+  
+  
+  
+  
