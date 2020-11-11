@@ -18,15 +18,13 @@ img {
 
 nav {
   text-align: center;
-  color: red;
-
 }	
 
 nav a { 
   background: white;
   padding-left: 10px;
   padding-right: 10px;
-  color: black;
+  color: red;
 } 
 
 figcaption { 
