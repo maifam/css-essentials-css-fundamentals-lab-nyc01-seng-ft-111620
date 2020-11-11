@@ -31,7 +31,25 @@ figcaption {
   text-align: center;
   font-size: 10px;
 } 
+
+#feature-property p {
+  width: 800px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+  background-color: #999999;
+  text-align: center;
+  width: 25%;
   
+}
   
   
   
