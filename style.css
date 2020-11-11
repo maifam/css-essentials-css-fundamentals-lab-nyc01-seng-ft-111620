@@ -23,9 +23,10 @@ nav {
 }	
 
 nav a { 
-  background: red;
+  background: white;
   padding-left: 10px;
   padding-right: 10px;
+  color: black;
 } 
 
 figcaption { 
