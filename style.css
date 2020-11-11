@@ -26,5 +26,6 @@ div {
   
   font-style: italic;
   text-align: center;
-  padding
+  padding-left: 10px;
+  padding-right: 10px;
 }	
